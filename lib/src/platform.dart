@@ -1,4 +1,4 @@
-import 'package:flutter_device_locale/src/method_channel.dart';
+import 'method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 abstract class FlutterDeviceLocalePlatform extends PlatformInterface {

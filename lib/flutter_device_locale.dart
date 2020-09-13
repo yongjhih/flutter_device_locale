@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:flutter_device_locale/src/platform.dart';
+import 'src/platform.dart';
 
 class DeviceLocale {
   static Future<Locale> getCurrentLocale() async {
